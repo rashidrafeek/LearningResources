@@ -1,6 +1,6 @@
 # Resources
 
-Some resources on topics which are fairly easy to follow.
+Fairly easy to follow resources on various topics.
 
 ## First Principles Modeling
 
